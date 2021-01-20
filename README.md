@@ -4,4 +4,4 @@ Un programme console simplissime permettant de calculer le prix de 10 litres de 
 
 
 
-Oui, il y a très peu de chances que ce produit vous serve, mais j'aimerai beaucoup.
+Oui, il y a très peu de chances que ce programme vous serve, mais j'aimerai beaucoup.
